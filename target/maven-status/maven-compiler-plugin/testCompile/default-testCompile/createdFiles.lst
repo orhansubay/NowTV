@@ -1,0 +1,9 @@
+com/nowtv/utilities/ConfigurationReader.class
+com/nowtv/step_definitions/UploadImagesStep.class
+com/nowtv/pages/CheckoutPage.class
+com/nowtv/step_definitions/NowTVWebStep.class
+com/nowtv/runners/CukesRunner.class
+com/nowtv/pages/ShopPage.class
+com/nowtv/step_definitions/Hooks.class
+com/nowtv/pages/HomePage.class
+com/nowtv/utilities/Driver.class

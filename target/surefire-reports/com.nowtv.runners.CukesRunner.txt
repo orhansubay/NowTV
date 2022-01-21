@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: com.nowtv.runners.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 36.662 s <<< FAILURE! - in com.nowtv.runners.CukesRunner
+User can successfully add Cinema Membership and checkout(Picking the membership)  Time elapsed: 36.326 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath:  //h2[contains(text(),'Personal details')]' (tried for 10 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":" //h2[contains(text(),'Personal details')]"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Gulizars-MacBook-Pro.local', ip: '2a01:4b00:9d46:1c00:710a:c2c0:58b3:9986%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: /var/folders/9q/17ycs00d79b...}, goog:chromeOptions: {debuggerAddress: localhost:52457}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5e8142c84b1107f1f1e7be3b8ce7afe1
+*** Element info: {Using=xpath, value= //h2[contains(text(),'Personal details')]}
+

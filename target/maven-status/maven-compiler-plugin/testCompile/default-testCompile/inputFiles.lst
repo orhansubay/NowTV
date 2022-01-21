@@ -1,0 +1,9 @@
+/Users/gulizarsubay/IdeaProjects/NowTV/src/test/java/com/nowtv/runners/CukesRunner.java
+/Users/gulizarsubay/IdeaProjects/NowTV/src/test/java/com/nowtv/utilities/ConfigurationReader.java
+/Users/gulizarsubay/IdeaProjects/NowTV/src/test/java/com/nowtv/pages/ShopPage.java
+/Users/gulizarsubay/IdeaProjects/NowTV/src/test/java/com/nowtv/step_definitions/Hooks.java
+/Users/gulizarsubay/IdeaProjects/NowTV/src/test/java/com/nowtv/pages/CheckoutPage.java
+/Users/gulizarsubay/IdeaProjects/NowTV/src/test/java/com/nowtv/pages/HomePage.java
+/Users/gulizarsubay/IdeaProjects/NowTV/src/test/java/com/nowtv/step_definitions/NowTVWebStep.java
+/Users/gulizarsubay/IdeaProjects/NowTV/src/test/java/com/nowtv/step_definitions/UploadImagesStep.java
+/Users/gulizarsubay/IdeaProjects/NowTV/src/test/java/com/nowtv/utilities/Driver.java
